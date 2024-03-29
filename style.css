@@ -12,7 +12,6 @@ body {
 }
 .header {
     display: flex;
-    justify-content: space-between;
 }
 .logo {
     display: flex;
@@ -23,4 +22,12 @@ ul {
     display: flex;
     list-style-type: none;
     gap: 10px;
+}
+.content {
+    display: flex;
+}
+.placeholder {
+    background-color: #e5e7eb;
+    width: 100px;
+    width: 100px;
 }
