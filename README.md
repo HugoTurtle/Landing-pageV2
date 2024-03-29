@@ -1,0 +1,1 @@
+This project will be a very simple landing page. With this project I hope to demonstrate my proficiency and understanding with Flexbox, by styling and placing all my elements using Flexbox.
