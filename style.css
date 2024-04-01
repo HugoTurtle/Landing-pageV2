@@ -2,32 +2,31 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0;
+    font-family: roboto;
 }
 .intro {
     background-color: #1f2937;
-    padding: 10px 50px 100px;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
-.header {
-    display: flex;
+.logo,
+h1 {
+    font-size: 24px;
+    color: #f9faf8;
 }
-.logo {
-    display: flex;
-    align-items: center;
-    margin-right: 300px;
+ul,
+.left p {
+    font-size: 18px;
+    color: #e5e7eb;
+    filter: contrast(0.5);
+
 }
-ul {
-    display: flex;
-    list-style-type: none;
-    gap: 10px;
-}
-.content {
-    display: flex;
+.left h1 {
+    font-size: 48px;
+    font-weight: 800;
 }
 .placeholder {
-    background-color: #e5e7eb;
-    width: 100px;
-    width: 100px;
+    background-color: grey;
+    width: 550px;
+    height: 225px;
 }
