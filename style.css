@@ -110,4 +110,6 @@ ul,
 
 .card p {
     text-align: center;
+    color: #1f2937;
+    filter: contrast(0.5);
 }
