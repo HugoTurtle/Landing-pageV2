@@ -138,3 +138,10 @@ ul,
     font-size: 25px;
     font-weight: 700;
 }
+
+.sign-up {
+    margin: 100px 0px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
