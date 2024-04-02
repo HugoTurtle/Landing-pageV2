@@ -145,3 +145,9 @@ ul,
     justify-content: center;
     align-items: center;
 }
+
+.call-to-action-box {
+    background-color: #3882f6;
+    border-radius: 10px;
+    flex: 0 1 900px;
+}
