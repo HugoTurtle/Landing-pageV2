@@ -131,3 +131,9 @@ ul,
 .text-container {
     flex: 0 1 800px;
 }
+
+.text-container .source {
+    text-align: end;
+    font-size: 25px;
+    font-weight: 700;
+}
