@@ -81,6 +81,9 @@ ul,
     font-weight: 800;
     margin: 0;
 }
-.placeholder {
-
+.info-box .placeholder {
+    width: 125px;
+    height: 125px;
+    border: 2px solid rgb(51, 95, 254);
+    border-radius: 5px;
 }
