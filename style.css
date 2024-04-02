@@ -152,6 +152,11 @@ ul,
     flex: 0 1 900px;
     color: #e5e7eb;
     display: flex;
-    padding: 20px 40px;
+    padding: 50px 40px;
     justify-content: space-around;
+}
+
+.left p,
+h3 {
+    margin: 0;
 }
