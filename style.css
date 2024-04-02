@@ -127,6 +127,7 @@ ul,
     color: #1f2937;
     display: flex;
     justify-content: center;
+    font-weight: 300;
 }
 .text-container {
     flex: 0 1 800px;
