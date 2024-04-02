@@ -150,4 +150,8 @@ ul,
     background-color: #3882f6;
     border-radius: 10px;
     flex: 0 1 900px;
+    color: #e5e7eb;
+    display: flex;
+    padding: 20px 40px;
+    justify-content: space-around;
 }
