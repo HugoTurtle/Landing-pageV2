@@ -103,4 +103,11 @@ ul,
 .card {
     flex: 0 1 150px;
     margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card p {
+    text-align: center;
 }
