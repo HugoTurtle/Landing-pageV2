@@ -54,6 +54,9 @@ ul {
     justify-content: center;
     align-items: center;
     color: #f9faf8;
+    background-color: grey;
+    width: 520px;
+    height: 255px;
 }
 
 .logo,
@@ -79,7 +82,5 @@ ul,
     margin: 0;
 }
 .placeholder {
-    background-color: grey;
-    width: 520px;
-    height: 255px;
+
 }
