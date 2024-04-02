@@ -94,3 +94,11 @@ ul,
     font-weight: 700;
     color: #1f2937;
 }
+
+.info-box {
+    display: flex;
+}
+
+.card {
+    flex: 0 1 150px;
+}
