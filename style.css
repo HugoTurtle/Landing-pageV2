@@ -121,8 +121,13 @@ ul,
 
 .quote {
     background-color: #e5e7eb;
-    padding: 200px 0px;
+    padding: 50px 0px;
     font-size: 36px;
     font-style: italic;
     color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+.text-container {
+    flex: 0 1 800px;
 }
